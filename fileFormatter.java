@@ -1,5 +1,4 @@
 // Ash Apsangi 10/23/2023
-// Assignment #04
 // This program removes multiple consecutive spaces from the file while preserving the formatting of the file.
 
 import java.io.File;
@@ -10,7 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class Assignment04 {
+public class fileFormatter {
 	public static void main(String[] args) throws IOException {
 		Scanner s = new Scanner(System.in);
 
