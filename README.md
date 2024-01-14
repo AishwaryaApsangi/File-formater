@@ -1,4 +1,4 @@
-#Space Reducer Program for Text Files
+# Space Reducer Program for Text Files
 
 Overview
 -This Java program, developed by Ash Apsangi on 10/23/2023, is designed to optimize the formatting of text files. Its primary function is to remove multiple consecutive spaces while preserving the overall formatting of the file.
